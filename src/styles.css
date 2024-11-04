@@ -7,3 +7,13 @@
     display: block;
 }
 
+.nav {
+    width: 350px;
+    height: 60px;
+}
+.chevron:before {
+    content: "<" ;
+}
+.chevron:after {
+    content: ">";
+}
